@@ -68,6 +68,8 @@ body {
 .cell {
     background-color: #fff;
     font-size: 100px;
+    border: 1px solid black;
+    color: black;
 }
 
 .reset {
